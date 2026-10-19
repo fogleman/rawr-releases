@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:rawr="https://github.com/fogleman/rawr-releases" version="2.0">
+  <channel>
+    <title>rawr</title>
+    <link>https://github.com/fogleman/rawr-releases/releases</link>
+    <description>Betas of rawr</description>
+    <language>en</language>
+    <item>
+      <title>Beta 46</title>
+      <pubDate>Mon, 19 Oct 2026 16:39:40 +0000</pubDate>
+      <link>https://github.com/fogleman/rawr-releases/releases/tag/046-2026.10.19</link>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>Beta 46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <rawr:sourceCommit>a015f206d4fef827a7f19d7ff153bb5f231edaa0</rawr:sourceCommit>
+      <description sparkle:format="markdown"><![CDATA[
+- Small fixes and improvements.
+]]></description>
+      <enclosure url="https://github.com/fogleman/rawr-releases/releases/download/046-2026.10.19/rawr-046-2026.10.19.zip" length="9103106" type="application/octet-stream" sparkle:edSignature="0db3Tmty0nSOlz5D4wn4SGVe7Q07cO0AxZ+F55Rtd+BaTGZGWou9tZ4KRr2gug3+cJQ6z2IUeqflv5JmJZWUCA=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: fztUNRwX41yaprTTptL5lxaphQhpaCaD+uwFSviMd2p+3uNC7YI9onjFMegKjJx5HHSiw8jaDAr4GGoWu2wEAA==
+length: 1503
+-->
