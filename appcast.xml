@@ -7,6 +7,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Betas of rawr</description>
     <language>en</language>
     <item>
+      <title>Beta 51</title>
+      <pubDate>Sun, 25 Oct 2026 23:18:43 +0000</pubDate>
+      <link>https://github.com/fogleman/rawr-releases/releases/tag/051-2026.10.25</link>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>Beta 51</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <rawr:sourceCommit>727c94b0ab4599e7176f15b75ec638b3da30e423</rawr:sourceCommit>
+      <description sparkle:format="markdown"><![CDATA[
+- Small fixes and improvements.
+]]></description>
+      <enclosure url="https://github.com/fogleman/rawr-releases/releases/download/051-2026.10.25/rawr-051-2026.10.25.zip" length="9132340" type="application/octet-stream" sparkle:edSignature="ASJMe+XE2x2Nrh0AqktyPeQKnb0jDsbPrnjhK/fOHe23AIbfF8B1P3mUQVU6y1j12oHIYNvYv9DIkFo98HNaCQ=="></enclosure>
+    </item>
+    <item>
       <title>Beta 50</title>
       <pubDate>Sun, 25 Oct 2026 23:10:10 +0000</pubDate>
       <link>https://github.com/fogleman/rawr-releases/releases/tag/050-2026.10.25</link>
@@ -78,6 +91,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fwQw51T/pWqyuc5J9jrQcRo3YbIDeVNqYuljqkX45z7MPP3KWjSCeHh4HzyMPsy0n/+JpKmDhKLFpbO/G5fRDQ==
-length: 6531
+edSignature: a6doO270ccr09WfXknXNCreeyDFL64fUzitJn9h/Um3RzWa4mnZd1m2FYw3xnhV8CvBzTJp1SO3fLlVJuzUUDA==
+length: 7404
 -->
