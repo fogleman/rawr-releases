@@ -7,6 +7,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Betas of rawr</description>
     <language>en</language>
     <item>
+      <title>Beta 48</title>
+      <pubDate>Sun, 25 Oct 2026 00:10:11 +0000</pubDate>
+      <link>https://github.com/fogleman/rawr-releases/releases/tag/048-2026.10.25</link>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>Beta 48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <rawr:sourceCommit>a2266954415e7f15125bcb88cbdda6d1a399e117</rawr:sourceCommit>
+      <description sparkle:format="markdown"><![CDATA[
+- New: sort the folders in the sidebar by photo count or size on disk. Right-click the sidebar and choose Sort By ▸ Name, Photos or Size. Folders with the most come first, and rawr remembers your choice. Folders in the sidebar itself stay in the order you added them.
+]]></description>
+      <enclosure url="https://github.com/fogleman/rawr-releases/releases/download/048-2026.10.25/rawr-048-2026.10.25.zip" length="9073921" type="application/octet-stream" sparkle:edSignature="i9XhSTSgBbTqh3kPnmqmSwWQ6LUx9xbcr2GdXVO0cJDTX4zg5T9F8+6kcIplI7YXDkt/Z9Q2ZL8m50rduKwQCQ=="></enclosure>
+    </item>
+    <item>
       <title>Beta 47</title>
       <pubDate>Tue, 20 Oct 2026 00:18:54 +0000</pubDate>
       <link>https://github.com/fogleman/rawr-releases/releases/tag/047-2026.10.20</link>
@@ -34,6 +47,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RXUIgaGtmJrEtXr6ES1bj/ltmlqtUm80gv7jaVXxgJTEn4CK2HGJ9//+o37XOnw3whoav6hDghzkNaYr54myDA==
-length: 2376
+edSignature: bL8/KOca5+JHVOA0mbuSx50fWN6eR0duHUaE0uH9A04yD0n5VuBFny+Wq59l/3IhHFxuMr1cctWFoKOfKsOVCA==
+length: 3487
 -->
