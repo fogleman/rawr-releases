@@ -7,6 +7,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Betas of rawr</description>
     <language>en</language>
     <item>
+      <title>Beta 49</title>
+      <pubDate>Sun, 25 Oct 2026 20:35:59 +0000</pubDate>
+      <link>https://github.com/fogleman/rawr-releases/releases/tag/049-2026.10.25</link>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>Beta 49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <rawr:sourceCommit>fb636b9abe47f0a3858baa297f50b301d394590b</rawr:sourceCommit>
+      <description sparkle:format="markdown"><![CDATA[
+- Raws from many Sony cameras, like the a7R III and IV, the a7 III and the a9, are now sharp at 100%. These cameras store only a small preview in the file, so 100% used to be that preview scaled up. Now rawr develops the raw itself when you zoom in, and on a 60-megapixel camera at 50% too. The first frame can take a second, and its colors may shift a little as it sharpens.
+- New: the side rail shows a Source row under Decoded. RAW means rawr developed the raw itself, and Embedded JPEG means you're seeing the picture the camera stored in the file. A few cameras store theirs as Embedded RGB or Embedded HEIF.
+- Very long bursts, like thousands of frames grouped into one, are much smoother. Stepping through one no longer beachballs or flashes back to a blurry preview at 100%, and holding Backspace to cycle through one no longer keeps using more memory.
+- Cull Bursts on a very long burst finds its picks about three times faster, and the sheet no longer beachballs while the pictures load.
+- Align, Score, Cull Bursts and other actions keep running at full speed while rawr's window is behind another app's.
+- Aligning a long burst no longer drifts. Over hundreds of frames, a smooth pan could end dozens of pixels off. Now it stays within a few. Bursts you aligned before are measured again the next time you align them.
+]]></description>
+      <enclosure url="https://github.com/fogleman/rawr-releases/releases/download/049-2026.10.25/rawr-049-2026.10.25.zip" length="9127974" type="application/octet-stream" sparkle:edSignature="OEF+BwXyPDzh3lQkOKH387ahpigb+3jivdtuugLLEmfI6U3zkiCHA4QDAfNsWEuWW59txyNHKMpuACGqOMjBBw=="></enclosure>
+    </item>
+    <item>
       <title>Beta 48</title>
       <pubDate>Sun, 25 Oct 2026 00:10:11 +0000</pubDate>
       <link>https://github.com/fogleman/rawr-releases/releases/tag/048-2026.10.25</link>
@@ -47,6 +65,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bL8/KOca5+JHVOA0mbuSx50fWN6eR0duHUaE0uH9A04yD0n5VuBFny+Wq59l/3IhHFxuMr1cctWFoKOfKsOVCA==
-length: 3487
+edSignature: FeuG48w6BNrDVck5ZgCklBwBK+CXrWtgrCUnRTwu/D89hV5ebddvT/aFtYyA3BWhktrN20gy84nFKTKt4gDFDA==
+length: 5658
 -->
